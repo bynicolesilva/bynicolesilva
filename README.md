@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @bynicolesilva
 - 👀 I'm interested in writing
 - 🌱 I'm currently learning programming
-- 💞️ I try to add to my studies
+- 💞️ I try to add my study
 - 📫 you can find me by my email 
 
 <!---
